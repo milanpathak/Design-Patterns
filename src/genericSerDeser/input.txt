@@ -1,0 +1,100 @@
+<fqn:genericSerDeser.util.First>
+<type=boolean, var=BooleanValue, value=true>
+<type=byte, var=ByteValue, value=-17>
+<type=char, var=CharValue, value=m>
+<type=double, var=DoubleValue, value=9052486128430512128.000000>
+<type=float, var=FloatValue, value=0.3268135289021513>
+<type=int, var=IntValue, value=761788968>
+<type=long, var=LongValue, value=-4568207186537638084>
+<type=short, var=ShortValue, value=29291>
+<type=String, var=StringValue, value=SmjOV3X7hXv9xz0zRv>
+</fqn:genericSerDeser.util.First>
+<fqn:genericSerDeser.util.First>
+<type=boolean, var=BooleanValue, value=true>
+<type=byte, var=ByteValue, value=99>
+<type=char, var=CharValue, value=a>
+<type=double, var=DoubleValue, value=6818483877085415424.000000>
+<type=float, var=FloatValue, value=0.06462033731494254>
+<type=int, var=IntValue, value=-1833110517>
+<type=long, var=LongValue, value=-1904448205925071369>
+<type=short, var=ShortValue, value=5893>
+<type=String, var=StringValue, value=JMyl7fZy3B8Wiwsf8n7v>
+</fqn:genericSerDeser.util.First>
+<fqn:genericSerDeser.util.Second>
+<type=double, var=DoubleValue, value=8340492419018397696.000000>
+<type=double, var=DoubleValue2, value=3142277043749625856.000000>
+<type=long, var=LongValue, value=-2624828462973088634>
+<type=long, var=LongValue2, value=1739819123962050421>
+<type=short, var=ShortValue, value=-15805>
+<type=short, var=ShortValue2, value=-10896>
+<type=String, var=StringValue, value=zzi0KHFQdJTH9xkCOlM6>
+</fqn:genericSerDeser.util.Second>
+<fqn:genericSerDeser.util.Second>
+<type=double, var=DoubleValue, value=-3401829671124058112.000000>
+<type=double, var=DoubleValue2, value=7840729489281587200.000000>
+<type=long, var=LongValue, value=-6202333229735376902>
+<type=long, var=LongValue2, value=4033651199495058059>
+<type=short, var=ShortValue, value=-29774>
+<type=short, var=ShortValue2, value=-4062>
+<type=String, var=StringValue, value=ILf24HW9jnE8VGICvR7V11qR74>
+</fqn:genericSerDeser.util.Second>
+<fqn:genericSerDeser.util.Second>
+<type=double, var=DoubleValue, value=-3759083905444020224.000000>
+<type=double, var=DoubleValue2, value=-4623670297545811968.000000>
+<type=long, var=LongValue, value=8871853512295682239>
+<type=long, var=LongValue2, value=1633820252084838039>
+<type=short, var=ShortValue, value=32160>
+<type=short, var=ShortValue2, value=29496>
+<type=String, var=StringValue, value=i6Pnw9TCt5cq00whqYATpshmA2JfnU3wAWqXdID56VFmIsozdixoMfBAt>
+</fqn:genericSerDeser.util.Second>
+<fqn:genericSerDeser.util.Second>
+<type=double, var=DoubleValue, value=-4034427101907113984.000000>
+<type=double, var=DoubleValue2, value=6551628049787666432.000000>
+<type=long, var=LongValue, value=-1760087406602175732>
+<type=long, var=LongValue2, value=6052950778158997038>
+<type=short, var=ShortValue, value=29933>
+<type=short, var=ShortValue2, value=18174>
+<type=String, var=StringValue, value=hOhftvP9N3QVVPw9NurPi4mWhcCjX4rl>
+</fqn:genericSerDeser.util.Second>
+<fqn:genericSerDeser.util.Second>
+<type=double, var=DoubleValue, value=-3401829671124058112.000000>
+<type=double, var=DoubleValue2, value=7840729489281587200.000000>
+<type=long, var=LongValue, value=-6202333229735376902>
+<type=long, var=LongValue2, value=4033651199495058059>
+<type=short, var=ShortValue, value=-29774>
+<type=short, var=ShortValue2, value=-4062>
+<type=String, var=StringValue, value=ILf24HW9jnE8VGICvR7V11qR74>
+</fqn:genericSerDeser.util.Second>
+<fqn:genericSerDeser.util.First>
+<type=boolean, var=BooleanValue, value=true>
+<type=byte, var=ByteValue, value=96>
+<type=char, var=CharValue, value=G>
+<type=double, var=DoubleValue, value=-8092830918918805504.000000>
+<type=float, var=FloatValue, value=0.04818985758079353>
+<type=int, var=IntValue, value=244426307>
+<type=long, var=LongValue, value=47151675286402040>
+<type=short, var=ShortValue, value=-49>
+<type=String, var=StringValue, value=DK5rH1qRk>
+</fqn:genericSerDeser.util.First>
+<fqn:genericSerDeser.util.First>
+<type=boolean, var=BooleanValue, value=false>
+<type=byte, var=ByteValue, value=-92>
+<type=char, var=CharValue, value=Y>
+<type=double, var=DoubleValue, value=6557706288150759424.000000>
+<type=float, var=FloatValue, value=0.056299228533202905>
+<type=int, var=IntValue, value=-1476590746>
+<type=long, var=LongValue, value=-8168587613977308346>
+<type=short, var=ShortValue, value=-21161>
+<type=String, var=StringValue, value=P4qQT75pJdh>
+</fqn:genericSerDeser.util.First>
+<fqn:genericSerDeser.util.First>
+<type=boolean, var=BooleanValue, value=true>
+<type=byte, var=ByteValue, value=99>
+<type=char, var=CharValue, value=a>
+<type=double, var=DoubleValue, value=6818483877085415424.000000>
+<type=float, var=FloatValue, value=0.06462033731494254>
+<type=int, var=IntValue, value=-1833110517>
+<type=long, var=LongValue, value=-1904448205925071369>
+<type=short, var=ShortValue, value=5893>
+<type=String, var=StringValue, value=JMyl7fZy3B8Wiwsf8n7v>
+</fqn:genericSerDeser.util.First>
